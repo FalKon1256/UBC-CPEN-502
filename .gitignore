@@ -23,8 +23,19 @@
 hs_err_pid*
 replay_pid*
 
+!.gitignore
+
+### Intellij ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+
+*.iml
+
+## Plugin-specific files:
+
 # IntelliJ
 out/
 
 ## Directory-based project format:
+
 .idea/
+
