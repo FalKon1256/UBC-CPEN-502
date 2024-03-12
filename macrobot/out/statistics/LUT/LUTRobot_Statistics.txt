@@ -1,0 +1,22 @@
+----------HYPERPARAMETERS----------
+ON-POLICY, FALSE
+EXPLORING EPISODES, 1000
+LEARNING RATE (ALPHA), 0.50
+DISCOUNT RATE (GAMMA), 0.80
+EXPLORE RATE (EPSILON), 0.75
+
+--------------REWARDS--------------
+GOOD TERMINAL REWARD, 1.00
+BAD TERMINAL REWARD, -1.00
+GOOD INTERMEDIATE REWARD, 0.50
+BAD INTERMEDIATE REWARD, -0.25
+
+0 - 100  win rate, 80.0
+100 - 200  win rate, 75.0
+200 - 300  win rate, 73.0
+300 - 400  win rate, 80.0
+400 - 500  win rate, 75.0
+500 - 600  win rate, 73.0
+600 - 700  win rate, 79.0
+700 - 800  win rate, 76.0
+800 - 900  win rate, 77.0
