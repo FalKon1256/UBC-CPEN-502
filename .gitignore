@@ -31,9 +31,8 @@ replay_pid*
 ## Plugin-specific files:
 
 # IntelliJ
-out/
+out/production/
 
 ## Directory-based project format:
-
 .idea/
 
